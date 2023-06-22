@@ -1,6 +1,6 @@
 Hi, I am Pancara
 Just another software developer.
-Can use java, golang,angular.
+I am polyglot. Can speak in java, golang, js.
 
-Available for colaborate
+ 
 You can reach me at pancara.k.wijonarko@gmail.com
